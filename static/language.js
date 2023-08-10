@@ -1,7 +1,7 @@
 var arrLang = {
      "en": {
           newspaperDownload: "Download the Newspaper",
-          heroTitle: "El Espíritu De Nuestro Mar",
+          heroTitle: "The Spirit of Our Sea",
           //Nav links
           navLink1: "The Film",
           navLink2: "Study Site",
@@ -13,14 +13,14 @@ var arrLang = {
           cta1: "Stay tuned!",
           cta2: "The documentary will be released soon.",
           //Quote
-          quote1: "cómo generar una dinámica donde el desarrollo y la conservación caminen verdaderamente",
-          quote2: "de la mano para garantizar el bienestar de las generaciones presentes y futuras?",
+          quote1: "How to generate a mechanism where development and conservation truly go hand",
+          quote2: "in hand to ensure the well-being of present and future generations?",
           quote3: "Individually, we are one drop.",
           quote4: "Together, we are an ocean.",
           sectionLocalQuote: "The sea is [...] our life, our resource, our universe. We are the sea",
           sectionIntQuote: "Marine protection means insurance for healthy oceans, […] for my family, my children, and the future generations",
           //About
-          about1: "During 2023, Somos OceanoS (SOS) had the opportunity of undertaking its second project in Baja California Sur, Mexico.",
+          about1: "During 2023, Somos OceanoS had the opportunity of undertaking its second project in Baja California Sur, Mexico.",
           aboutQuote: "¿cómo generar una dinámica donde el desarrollo y la conservación caminen verdaderamente de la mano para garantizar el bienestar de las generaciones presentes y futuras?",
           //Making the Film
           sectionFilm: "Making the Film",
@@ -43,7 +43,7 @@ var arrLang = {
           sectionFilmContent36: "Whilst in Mexico, SOS produced the documentary: The Spirit of Our Sea. Within this, a variety of stakeholders were interviewed, including fishers, scientists, local government, tourism providers, market vendors and musicians. It was enlightening to hear the ways in which these stakeholders are connected to their sea, how they view the Espiritu Santo Archipelago and their perspectives on challenges, needs and desires related to the area.",
           sectionFilmContent37: "The Spirit of Our Sea was showcased during ‘movie nights’ which were held in various places in the nearby city of La Paz. The purpose of the movie nights was to create a space in which different stakeholders and members of the community could discuss their shared experiences of the MPA management and find joint solutions. Additionally, capacity-building workshops were held during the movie nights where advice and tools for increasing public participation in environmental decision-making were shared.",
           sectionFilmContent38: "SOS also hosted environmental-cultural activities in La Paz to provide the local community with the chance to express themselves if they were not involved with the documentary production. For example, art, photography and poetry competitions were run for all ages and some of the artists with the best entries won a free trip to the Isla Espiritu Santo. SOS also held environmental education activities at local schools in La Paz to encourage understanding and love towards the marine environment from a young age.",
-          sectionFilmContent39: "As well as a documentary, a bilingual newspaper (Spanish and English) was created in which local and international experts on Marine Protected Areas contributed short articles. This newspaper was distributed throughout La Paz so that in-depth knowledge on ocean science and marine development is available, accessible and free of charge. Find the digital version of the newspaper here.",
+          sectionFilmContent39: "As well as a documentary, a bilingual newspaper (Spanish and English) was created in which local and international experts on Marine Protected Areas contributed short articles. This newspaper was distributed throughout La Paz so that in-depth knowledge on ocean science and marine development is available, accessible and free of charge.",
           //Site
           sectionStudyDescription1:"Click",
           sectionStudyDescription2: "here ",
@@ -157,78 +157,76 @@ var arrLang = {
           sectionLocal: "Meet the Interviewees",
           sectionLocalRole1: "Universidad Autónoma de Baja California Sur",
           sectionLocalQuote1: '"[The sea] has given me so much, I feel the need to give it back."',
-
+          
           sectionLocalRole2: 'Tourism service provider -Baja Charter',
           sectionLocalQuote2: '"There are some areas where both sport fishing and tourism are legal."',
-
+          
           sectionLocalRole3: 'Fishing cooperative "El Manglito"',
           sectionLocalQuote3: '"The solution for fishing every day? You have to be a magician."',
-
+          
           sectionLocalRole4: 'Eco club - Californios Verdes',
-          sectionLocalQuote4: '"If change doesnt start today, when is it going to start?"',
-
+          sectionLocalQuote4: '"If change does not start today, when is it going to start?"',
+          
           sectionLocalRole5: 'Gulf of California Marine Program',
           sectionLocalQuote5: '"The capabilities of the advisory board need to be renewed."',
-
-          sectionLocalRole6: 'Musician- Venados Muertos ',
+          
+          sectionLocalRole6: 'Musician- Venados Muertos',
           sectionLocalQuote6: '"There is a lack of other types of conservation where the local people are not excluded."',
-
+          
           sectionLocalRole7: 'Universidad Autónoma de Baja California Sur',
           sectionLocalQuote7: '"We now have an obligation to do two things: to do science, and to communicate it."',
-
+          
           sectionLocalRole8: 'Ensenada Center for Scientific Research and Higher Education (CICESE)',
           sectionLocalQuote8: '"To conserve something we have to love it, learn about it, and love it."',
-
+          
           sectionLocalRole9: 'Tourism service provider - Puerto de Ilusión',
           sectionLocalQuote9: '"I want [Espiritu Santo Island] to stay as it is."',
-
+          
           sectionLocalRole10: 'Tourism service provider - The Hook',
           sectionLocalQuote10: '"The concern [...] is the possibility of a business group coming in, [...] taking over the operation."',
-
+          
           sectionLocalRole11: '"National Commission for Protected Areas of Mexico (CONANP)"',
           sectionLocalQuote11: '"At this moment we are a national example, I would like to become an international example."',
-
+          
           sectionLocalRole12: 'Fishing cooperative "El Esterito"',
           sectionLocalQuote12: '"I have not been fishing with nets for 17 years [...], we must be stewards."',
-
-          sectionLocalRole13: 'Fishing camp "La Partida" ',
+          
+          sectionLocalRole13: 'Fishing camp "La Partida"',
           sectionLocalQuote13: '"I know many who are family members, who were  fishermen and are  switching to tourism."',
           
-          sectionLocalRole14: 'Regional Federation of Cooperative Societies of the Fishing Industry (FEDECOOP)',
-          sectionLocalQuote14: '"The fisher is in danger of extinction."',
-
-          sectionLocalRole15: 'Citizen Observers Network (ROC)',
-          sectionLocalQuote15: '"Illegal fishing is not going to end, one way or another fishing continues."',
-
-          sectionLocalRole16: 'Mar Libre & Musician - Venados Muertos ',
-          sectionLocalQuote16: '"Music and art are just that, ways of expressing or manifesting...it liberates you."',
+          sectionLocalRole14: 'Citizen Observers Network (ROC)',
+          sectionLocalQuote14: '"Illegal fishing is not going to end, one way or another fishing continues."',
           
-          sectionLocalRole17: "Niparajá Natural History Society",
-          sectionLocalQuote17: '"I would like to see a National Park appropriate for the citizens of La Paz."',
+          sectionLocalRole16: 'Niparajá Natural History Society',
+          sectionLocalQuote16: '"I would like to see a National Park appropriate for the citizens of La Paz."',
+          
+          sectionLocalRole17: 'Community movement - Urbanería',
+          sectionLocalQuote17: '"The sea is our mother... The place where life was born."',
 
-          sectionLocalRole18: "Community movement - Urbanería",
-          sectionLocalQuote18: '"The sea is our mother... The place where life was born."',
+          sectionLocalRole18: 'Fishing cooperative "El Manglito""',
+          sectionLocalQuote18: '"The sea for me is something to respect."',
 
-          sectionLocalRole19: 'Fishing cooperative "El Manglito"',
-          sectionLocalQuote19: '"The sea for me is something to respect."',
+          sectionLocalRole19: "Beta Diversidad",
+          sectionLocalQuote19: '"We must make a commitment to defend these spaces that we have."',
 
-          sectionLocalRole20: "Beta Diversidad",
-          sectionLocalQuote20: '"We must make a commitment to defend these spaces that we have."',
+          sectionLocalRole20: 'Ecology Project International - Mexico (EPI)',
+          sectionLocalQuote20: '"The challenge of all education: [...] let them be the protagonists."',
 
-          sectionLocalRole21: "Ecology Project International - Mexico (EPI)",
-          sectionLocalQuote21: '"The challenge of all education: [...] let them be the protagonists."',
+          sectionLocalRole21: "SeaWatch",
+          sectionLocalQuote21: '"If we have destroyed the oceans, we have destroyed mankind."',
 
-          sectionLocalRole22: "SeaWatch",
-          sectionLocalQuote22: '"If we have destroyed the oceans, we have destroyed mankind."',
+          sectionLocalRole22: "Niparajá & Advisory board of the National Park",
+          sectionLocalQuote22: '"The objective is the conservation of the protected natural area, the rest comes later."',
 
-          sectionLocalRole23: "Niparajá & Advisory board of the National Park ",
-          sectionLocalQuote23: '"The objective is the conservation of the protected natural area, the rest comes later."',
+          sectionLocalRole23: "Orgcas",
+          sectionLocalQuote23: '"There is a need for partnership."',
 
-          sectionLocalRole24: "Orgcas",
-          sectionLocalQuote24: '"There is a need for partnership."',
+          sectionLocalRole24: "Artisan",
+          sectionLocalQuote24: '"When you go to the island, you go to bathe the soul."',
 
-          sectionLocalRole25: "Artisan",
-          sectionLocalQuote25: '"When you go to the island, you go to bathe the soul."',
+          sectionLocalRole15: "Mar Libre & Musician - Venados Muertos",
+          sectionLocalQuote15: '"Music and art are just that, ways of expressing or manifesting...it liberates you."',
+
 
           //Int Experts
           sectionExpert: "Meet the Team",
@@ -313,7 +311,7 @@ var arrLang = {
           sectionEvent: "Events",
           sectionEventTitle11:"Drawing competition for kids (Deadline: 24th January 2022)",
           sectionEventTitle12: "(4 - 11 years old)",
-          sectionEventContent5: "For questions and suggestions about the events, please contact: veronica@watersciencepolicy.com",
+          sectionEventContent5: "For suggestions and questions about the project, please contact: veronica@watersciencepolicy.com",
           sectionEventContent6: "If you have questions about donations or require IT-support please reach us at: contact@watersciencepolicy.com",
           sectionEventContent2: "With this competition we invite the children of San Antonio Bay to share their drawings related to the ocean or simply how they enjoyed their summer in San Antonio or Las Grutas (Winners will receive a prize!)",
           sectionEventTitle21:"Photo competition for youth (Deadline: 24th January 2022)",
@@ -343,7 +341,7 @@ var arrLang = {
           //Crew
           sectionCrew: "Meet the Team",
           sectionCrewRole1: "Project Director and Producer",
-          sectionCrewJob1: "onewater & University of British Columbia",
+          sectionCrewJob1: "Onewater & University of British Columbia",
           sectionCrewAff1: "Spain",
 
           sectionCrewRole2: "Director of Photography & Editor",
@@ -355,15 +353,15 @@ var arrLang = {
           sectionCrewAff3: "Mexico",
 
           sectionCrewRole4: "Unit Production Manager",
-          sectionCrewJob4: "onewater",
+          sectionCrewJob4: "Onewater",
           sectionCrewAff4: "Germany",
 
           sectionCrewRole5: "On-site Materials Coordination",
-          sectionCrewJob5: "onewater",
+          sectionCrewJob5: "Onewater",
           sectionCrewAff5: "Italy/UK",
 
           sectionCrewRole6: "Broadcast Designer & Visual Effects",
-          sectionCrewJob6: "onewater",
+          sectionCrewJob6: "Onewater",
           sectionCrewAff6: "Russia",
 
           sectionCrewRole7: "Engagement and Stakeholder Coordination",
@@ -395,7 +393,7 @@ var arrLang = {
           sectionCrewAff13: "Mexico",
 
           sectionCrewRole14: "Web Developer",
-          sectionCrewJob14: "onewater",
+          sectionCrewJob14: "Onewater",
           sectionCrewAff14: "United States",
 
           //Making of
@@ -439,19 +437,20 @@ var arrLang = {
           cta1: "¡Síguenos de cerca!",
           cta2: " El documental se estrenará pronto.",
           //Quote
-          quote1: "El mar, una vez que lanza su hechizo,",
-          quote2: "lo atrapa a uno en su red de maravillas para siempre",
+          quote1: "¿Cómo generar una dinámica donde el desarrollo y la conservación caminen verdaderamente",
+          quote2: "de la mano para garantizar el bienestar de las generaciones presentes y futuras?",
           quote3: "Individualmente, somos una gota.",
           quote4: "Juntos, somos un océano.",
           sectionLocalQuote: "El mar es […] nuestra vida, nuestro recurso, nuestro universo. Somos el mar",
           sectionIntQuote: "La protección de los mares es asegurar la salud de los océanos, [...] para mi familia, mis hijos y las futuras generaciones",
           //About
-          about1: "Durante 2023, Somos OcéanoS (SOS) tuvo la oportunidad de emprender su segundo proyecto en Baja California Sur, México.",
+          about1: "Durante 2023, Somos OcéanoS tuvo la oportunidad de emprender su segundo proyecto en Baja California Sur, México.",
           aboutQuote: "¿cómo generar una dinámica donde el desarrollo y la conservación caminen verdaderamente de la mano para garantizar el bienestar de las generaciones presentes y futuras?",
           //Making the Film
           sectionFilm: "La Filmación",
           sectionFilm2: "El proyecto",
           sectionFilm3: "Lea el periódico",
+          sectionFilm5: "Eventos",
           sectionFilm7: "Contáctanos",
           sectionFilm4: "Producción del documental",
           sectionFilm4: "Producción del documental",sectionFilm4: "Producción del documental",
@@ -469,7 +468,7 @@ var arrLang = {
           sectionFilmContent36: "En México SOS produjo el documental: El Espíritu de Nuestro Mar. En él se entrevistó a diversas personas: pescadores, científicos, autoridades locales, proveedores de servicios turísticos, vendedores y músicos. Fue una experiencia única conocer de que forma la comunidad está conectadas con su mar, cómo perciben el archipiélago de Espíritu Santo y cuales son sus impresiones, retos, necesidades y deseos en relación con la zona.",
           sectionFilmContent37: "El Espíritu de Nuestro Mar se presentó durante 'las noches de cine' que se celebraron en varios lugares de la localidad de La Paz. El objetivo de las noches de cine era crear un espacio en el que las distintas comunidades y partes interesadas pudieran debatir sus propias experiencias en torno al manejo del área natural protegida y encontrar soluciones conjuntas. Además, durante las noches de cine se celebraron talleres de capacitación en los que se intercambiaron consejos y herramientas para aumentar la participación pública en la toma de decisiones medioambientales.",
           sectionFilmContent38: "SOS también organizó actividades medioambientales y culturales en La Paz para dar a la comunidad local la oportunidad de expresarse, en el caso de que pudieran aparecer en el documental. Por ejemplo, se organizaron concursos de arte, fotografía y poesía para todas las edades y algunos de los artistas con las mejores obras ganaron un viaje gratuito a la Isla Espíritu Santo. SOS también organizó actividades de educación ambiental en las escuelas de La Paz para fomentar la conservación y el amor por el medio marino desde una edad temprana.",
-          sectionFilmContent39: "Además del documental, se elaboró un periódico bilingüe (en español e inglés) en el que expertos locales e internacionales en Áreas Marinas Protegidas contribuyeron con artículos de divulgación. Este periódico se distribuyó por toda La Paz para que los conocimientos especializados sobre las ciencias oceánicas y el desarrollo marino estén disponibles, sean accesibles y gratuitos. Encuentre la versión digital del periódico aquí.",
+          sectionFilmContent39: "Además del documental, se elaboró un periódico bilingüe (en español e inglés) en el que expertos locales e internacionales en Áreas Marinas Protegidas contribuyeron con artículos de divulgación. Este periódico se distribuyó por toda La Paz para que los conocimientos especializados sobre las ciencias oceánicas y el desarrollo marino estén disponibles, sean accesibles y gratuitos.",
           //Site
           sectionStudyDescription1:"Pulse",
           sectionStudyDescription2: "aquí ",
@@ -584,7 +583,7 @@ var arrLang = {
           sectionLocalQuote1: '"[El mar] de tanto que me ha dado, siento la necesidad de regresarle."',
           
           sectionLocalRole2: 'Proveedor de servicios turísticos -Baja Charter',
-          sectionLocalQuote2: 'Proveedor de servicios turísticos -Baja Charter',
+          sectionLocalQuote2: '"Hay algunas areas donde es legal la pesca deportiva y al mismo tiempo el turismo."',
           
           sectionLocalRole3: 'Cooperativa pesquera "El Manglito"',
           sectionLocalQuote3: '"¿La solución para que haya pesca todos los días? Hay que ser mago."',
@@ -619,41 +618,38 @@ var arrLang = {
           sectionLocalRole13: 'Campamento pesquero "La Partida"',
           sectionLocalQuote13: '"Conozco muchos que son familiares, que [...] igual se están cambiado al turismo."',
           
-          sectionLocalRole14: 'Federación Regional de Sociedades Cooperativas de la Industria Pesquera (FEDECOOP)',
-          sectionLocalQuote14: '"El pescador esta en peligro de extinción."',
+          sectionLocalRole14: 'Red de Observadores Ciudadanos (ROC)',
+          sectionLocalQuote14: '"La pesca ilegal no se va a acabar, de una forma u otra se sigue pescando."',
           
-          sectionLocalRole15: 'Red de Observadores Ciudadanos (ROC)',
-          sectionLocalQuote15: '"La pesca ilegal no se va a acabar, de una forma u otra se sigue pescando."',
+          sectionLocalRole16: 'Sociedad de Historia Natural Niparajá',
+          sectionLocalQuote16: '"Me gustaría ver un Parque Nacional apropiado para los ciudadanos de La Paz."',
           
-          sectionLocalRole16: 'Mar Libre y Música - Venados Muertos ',
-          sectionLocalQuote16: '"La música y el arte, son eso, formas de expresar o manifestar...te libera." ',
+          sectionLocalRole17: 'Movimiento comunitario - Urbanería',
+          sectionLocalQuote17: '"La mar es nuestra madre... El lugar dónde nació la vida."',
 
-          sectionLocalRole17: "Sociedad de Historia Natural Niparajá",
-          sectionLocalQuote17: '"Me gustaría ver un Parque Nacional apropiado para los ciudadanos de La Paz."',
+          sectionLocalRole18: 'Cooperativa pesquera "El Manglito"',
+          sectionLocalQuote18: '"El mar para mi es algo respetuoso."',
 
-          sectionLocalRole18: "Movimiento comunitario - Urbanería",
-          sectionLocalQuote18: '"La mar es nuestra madre... El lugar dónde nació la vida."',
+          sectionLocalRole19: "Beta Diversidad",
+          sectionLocalQuote19: '"Hay que hacer un compromiso para defender estos espacios que tenemos."',
 
-          sectionLocalRole19: 'Cooperativa pesquera "El Manglito"',
-          sectionLocalQuote19: '"El mar para mi es algo respetuoso."',
+          sectionLocalRole20: 'Ecology Project International - Mexico (EPI)',
+          sectionLocalQuote20: '"El reto de toda educación: [...] que sean ellos los protagonistas."',
 
-          sectionLocalRole20: "Beta Diversidad",
-          sectionLocalQuote20: '"Hay que hacer un compromiso para defender estos espacios que tenemos."',
+          sectionLocalRole21: "SeaWatch",
+          sectionLocalQuote21: '"Si destruimos los océanos, habremos destruido la humanidad."',
 
-          sectionLocalRole21: "Ecology Project International - Mexico (EPI)",
-          sectionLocalQuote21: '"El reto de toda educación: [...] que sean ellos los protagonistas."',
+          sectionLocalRole22: "Niparajá y Consejo Asesor del Parque Nacional",
+          sectionLocalQuote22: '"El objetivo es la conservación del área natural protegida, lo demás viene después."',
 
-          sectionLocalRole22: "SeaWatch",
-          sectionLocalQuote22: '"Si destruimos los océanos, habremos destruido la humanidad."',
+          sectionLocalRole23: "Orgcas",
+          sectionLocalQuote23: '"Hay una necesidad de aliarse."',
 
-          sectionLocalRole23: "Niparajá y Consejo Asesor del Parque Nacional",
-          sectionLocalQuote23: '"El objetivo es la conservación del área natural protegida, lo demás viene después."',
+          sectionLocalRole24: "Artesana",
+          sectionLocalQuote24: '"Cuando vas a la isla, tu vas a bañar el alma."',
 
-          sectionLocalRole24: "Orgcas",
-          sectionLocalQuote24: '"Hay una necesidad de aliarse."',
-
-          sectionLocalRole25: "Artesana",
-          sectionLocalQuote25: '"Cuando vas a la isla, tu vas a bañar el alma."',
+          sectionLocalRole15: "Mar Libre y Música - Venados Muertos ",
+          sectionLocalQuote15: '"La música y el arte, son eso, formas de expresar o manifestar...te libera."',
 
 
           sectionIntButton: "Ver el Video",
@@ -691,7 +687,7 @@ var arrLang = {
           //Crew
           sectionCrew: "Conoce al Equipo",
           sectionCrewRole1: "Directora del proyecto y productora",
-          sectionCrewJob1: "onewater & University of British Columbia",
+          sectionCrewJob1: "Onewater & University of British Columbia",
           sectionCrewAff1: "España",
 
           sectionCrewRole2: "Director de fotografía y editor",
@@ -703,15 +699,15 @@ var arrLang = {
           sectionCrewAff3: "México",
 
           sectionCrewRole4: "Responsable de realización",
-          sectionCrewJob4: "onewater",
+          sectionCrewJob4: "Onewater",
           sectionCrewAff4: "Alemania",
 
           sectionCrewRole5: "Coordinación de contenidos",
-          sectionCrewJob5: "onewater",
+          sectionCrewJob5: "Onewater",
           sectionCrewAff5: "Italia/Reino Unido",
 
           sectionCrewRole6: "Responsable de diseño y efectos visuales",
-          sectionCrewJob6: "onewater",
+          sectionCrewJob6: "Onewater",
           sectionCrewAff6: "Rusia",
 
           sectionCrewRole7: "Relaciones públicas y coordinación",
@@ -743,7 +739,7 @@ var arrLang = {
           sectionCrewAff13: "México",
 
           sectionCrewRole14: "Diseñador Web",
-          sectionCrewJob14: "onewater",
+          sectionCrewJob14: "Onewater",
           sectionCrewAff14: "Estados Unidos",
           //Making of
           sectionMakingOf: "Haciendo el Documental",
